@@ -1,0 +1,10 @@
+.country{
+    border: 1px solid rgb(207, 184, 230);
+    background-color: rgb(237, 205, 243);
+    border-radius: 20px;
+    margin: 20px;
+}
+.countries{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
